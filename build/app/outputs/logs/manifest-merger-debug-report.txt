@@ -28,7 +28,7 @@ ADDED from /Users/pisey/AndroidStudioProjects/picturedictionary/android/app/src/
 application
 ADDED from /Users/pisey/AndroidStudioProjects/picturedictionary/android/app/src/main/AndroidManifest.xml:15:5-38:19
 	android:label
-		ADDED from /Users/pisey/AndroidStudioProjects/picturedictionary/android/app/src/main/AndroidManifest.xml:17:9-42
+		ADDED from /Users/pisey/AndroidStudioProjects/picturedictionary/android/app/src/main/AndroidManifest.xml:17:9-43
 	android:icon
 		ADDED from /Users/pisey/AndroidStudioProjects/picturedictionary/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
